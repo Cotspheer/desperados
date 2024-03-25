@@ -3,6 +3,12 @@ Proof of Concept for a wild west style game on the blockchain.
 
 ![00_Front](https://github.com/Cotspheer/desperados/assets/4779528/224e1e19-1a1f-46cb-908d-23f4f828779d)
 
+![02_Mine_Desos](https://github.com/Cotspheer/desperados/assets/4779528/fb6e8db3-7d2b-488b-b085-cf907d369b2c)
+
+![03_Hire_Workers](https://github.com/Cotspheer/desperados/assets/4779528/317ea8a1-1c67-461f-a2e5-f48d28e1097b)
+
+![04_Build_Hotels](https://github.com/Cotspheer/desperados/assets/4779528/d9f2bf91-e9dc-4d9b-a3e1-366bafdb3af0)
+
 ## Game Design
 
 ![Anhang_C_Game_Canvas_Desperados](https://github.com/Cotspheer/desperados/assets/4779528/073ef95e-89a4-4d02-b28d-aa32c219fb5a)
