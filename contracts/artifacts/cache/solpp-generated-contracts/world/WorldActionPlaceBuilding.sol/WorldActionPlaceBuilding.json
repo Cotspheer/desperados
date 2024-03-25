@@ -1,0 +1,10 @@
+{
+  "_format": "hh-sol-artifact-1",
+  "contractName": "WorldActionPlaceBuilding",
+  "sourceName": "cache/solpp-generated-contracts/world/WorldActionPlaceBuilding.sol",
+  "abi": [],
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220a3f7747fcba49bb891b30f2f6a3c286cd7a2af7ee96eb74bb3a85c0855d0d8b264736f6c63430008040033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220a3f7747fcba49bb891b30f2f6a3c286cd7a2af7ee96eb74bb3a85c0855d0d8b264736f6c63430008040033",
+  "linkReferences": {},
+  "deployedLinkReferences": {}
+}
