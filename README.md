@@ -1,6 +1,8 @@
 # Desperados
 Proof of Concept for a wild west style game on the blockchain.
 
+![00_Front](https://github.com/Cotspheer/desperados/assets/4779528/224e1e19-1a1f-46cb-908d-23f4f828779d)
+
 ## Game Design
 
 ![Anhang_C_Game_Canvas_Desperados](https://github.com/Cotspheer/desperados/assets/4779528/073ef95e-89a4-4d02-b28d-aa32c219fb5a)
